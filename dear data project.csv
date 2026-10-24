@@ -1,0 +1,26 @@
+﻿ID,Date,Time,Step_Count,Context,Pace,Weather
+1,5/10/26,8:30,1300,Commute to Uni,Steady,Cloudy
+2,5/10/26,13:00,950,Campus Walk,Leisurely,Sunny
+3,6/10/26,8:40,1250,Commute to Uni,Rushed,Rainy
+4,6/10/26,17:15,1280,Walk Home,Steady,Cloudy
+5,7/10/26,9:00,1350,Commute to Uni,Steady,Clear
+6,8/10/26,8:30,1220,Commute to Uni,Rushed,Cloudy
+7,9/10/26,8:35,1310,Commute to Uni,Steady,Rainy
+8,9/10/26,17:30,2800,Walk Home from Gym,Moderate Walk,Clear
+9,10/10/26,11:00,3100,Gym Session,Exercise,Sunny
+10,11/10/26,12:30,3250,Gym Session,Exercise,Clear
+11,12/10/26,8:30,1300,Commute to Uni,Steady,Cloudy
+12,12/10/26,16:45,1250,Walk Home,Leisurely,Sunny
+13,13/10/2026,8:40,1240,Commute to Uni,Rushed,Rainy
+14,14/10/2026,11:30,3300,Gym Session,Exercise,Cloudy
+15,15/10/2026,8:30,1320,Commute to Uni,Steady,Clear
+16,16/10/2026,8:35,1290,Commute to Uni,Steady,Cloudy
+17,16/10/2026,17:30,2850,Walk Home from Gym,Moderate Walk,Clear
+18,17/10/2026,10:30,3400,Gym Session,Exercise,Sunny
+19,18/10/2026,12:00,3150,Gym Session,Exercise,Cloudy
+20,19/10/2026,8:30,1300,Commute to Uni,Steady,Clear
+21,19/10/2026,13:15,800,Walk to Canteen,Leisurely,Sunny
+22,19/10/2026,17:00,1260,Walk Home,Steady,Cloudy
+23,20/10/2026,8:30,1210,Commute to Uni,Rushed,Cloudy
+24,21/10/2026,11:00,3200,Gym Session,Exercise,Clear
+25,22/10/2026,11:30,3100,Gym Session,Exercise,Rainy
