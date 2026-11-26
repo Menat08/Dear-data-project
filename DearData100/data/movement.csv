@@ -1,0 +1,107 @@
+﻿ID,Date,Time,Step_Count,Context,Pace,Weather
+1,10/5/26,8:30,1300,Commute to Uni,Steady,Cloudy
+2,10/5/26,13:00,950,Campus Walk,Leisurely,Clear
+3,10/6/26,8:40,1250,Commute to Uni,Rushed,Rainy
+4,10/6/26,17:15,1280,Walk Home,Steady,Cloudy
+5,10/7/26,9:00,1350,Commute to Uni,Steady,Clear
+6,10/8/26,8:30,1220,Commute to Uni,Rushed,Cloudy
+7,10/9/26,8:35,1310,Commute to Uni,Steady,Rainy
+8,10/9/26,17:30,2800,Walk Home from Gym,Moderate,Clear
+9,10/10/26,11:00,3100,Gym Session,Exercise,Clear
+10,10/11/26,12:30,3250,Gym Session,Exercise,Clear
+11,10/12/26,8:30,1300,Commute to Uni,Steady,Cloudy
+12,10/12/26,16:45,1250,Walk Home,Leisurely,Clear
+13,10/13/26,8:40,1240,Commute to Uni,Rushed,Rainy
+14,10/14/26,11:30,3300,Gym Session,Exercise,Cloudy
+15,10/15/26,8:30,1320,Commute to Uni,Steady,Clear
+16,10/16/26,8:35,1290,Commute to Uni,Steady,Cloudy
+17,10/16/26,17:30,2850,Walk Home from Gym,Moderate,Clear
+18,10/17/26,10:30,3400,Gym Session,Exercise,Clear
+19,10/18/26,12:00,3150,Gym Session,Exercise,Cloudy
+20,10/19/26,8:30,1300,Commute to Uni,Steady,Clear
+21,10/19/26,13:15,800,Walk to Canteen,Leisurely,Clear
+22,10/19/26,17:00,1260,Walk Home,Steady,Cloudy
+23,10/20/26,8:30,1210,Commute to Uni,Rushed,Cloudy
+24,10/21/26,11:00,3200,Gym Session,Exercise,Clear
+25,10/22/26,11:30,3100,Gym Session,Exercise,Rainy
+26,10/23/26,12:30,4200,Gym Session,Exercise,Cloudy
+27,10/24/26,12:00,1400,Walk to gym,Steady,Rainy
+28,10/24/26,12:20,4500,Gym Session,Exercise,Rainy
+29,10/24/26,16:00,800,Walk to shops,Steady,Cloudy
+30,10/25/26,18:00,5000,Walking,Steady,Clear
+31,10/26/26,8:30,1500,Commute to Uni,Steady,Clear
+32,10/26/26,12:00,800,Walk to Canteen,Steady,Cloudy
+33,10/26/26,14:00,2500,Walking,Moderate,Clear
+34,10/27/26,8:30,1400,Commute to Uni,Moderate,Clear
+35,10/27/26,11:00,3200,Walking,Steady,Clear
+36,10/27/26,14:00,1400,Walk Home,Moderate,Clear
+37,10/28/26,12:00,2200,Walk to gym,Steady,Clear
+38,10/28/26,12:25,4500,Gym Session,Exercise,Clear
+39,10/28/26,13:45,2200,Walk Home from Gym,Moderate,Clear
+40,10/28/26,18:00,800,Walk to shops,Steady,Cloudy
+41,10/29/26,12:30,2250,Walk to gym,Moderate,Clear
+42,10/29/26,12:52,5200,Gym Session,Exercise,Clear
+43,10/29/26,14:15,2150,Walk Home from Gym,Steady,Clear
+44,10/30/26,10:45,2200,Commute to Uni,Steady,Cloudy
+45,10/30/26,12:30,400,Walk to shops,Moderate,Clear
+46,10/30/26,15:00,3700,Walking,Steady,Clear
+47,10/31/26,12:00,2200,Walk to gym,Rushed,Rainy
+48,10/31/26,12:25,5200,Gym Session,Exercise,Clear
+49,10/31/26,13:30,2200,Walk Home from Gym,Steady,Clear
+50,10/31/26,17:00,700,Walk to shops,Moderate,Cloudy
+51,11/1/26,8:45,1200,Commute to Uni,Rushed,Clear
+52,11/1/26,14:00,3200,Walking,Moderate,Cloudy
+53,11/1/26,18:00,1200,Walk to shops,Steady,Cloudy
+54,11/2/26,12:00,2200,Walk to gym,Moderate,Clear
+55,11/2/26,12:25,5800,Gym Session,Exercise,Clear
+56,11/2/26,14:00,2300,Walk Home from Gym,Moderate,Clear
+57,11/2/26,18:00,3200,Walking,Steady,Clear
+58,11/3/26,8:40,1400,Commute to Uni,Moderate,Cloudy
+59,11/3/26,12:00,800,Walk to shops,Moderate,Clear
+60,11/3/26,14:00,3200,Walking,Steady,Clear
+61,11/4/26,12:00,2200,Walk to gym,Steady,Clear
+62,11/4/26,12:25,4500,Gym Session,Exercise,Clear
+63,11/4/26,13:45,2250,Walk Home from Gym,Steady,Cloudy
+64,11/4/26,16:00,4200,Walking,Moderate,Clear
+65,11/5/26,12:00,2200,Walk to gym,Steady,Cloudy
+66,11/5/26,12:24,5200,Gym Session,Exercise,Cloudy
+67,11/5/26,13:50,2180,Walk Home from Gym,Steady,Clear
+68,11/6/26,10:40,1400,Commute to Uni,Steady,Cloudy
+69,11/6/26,14:00,400,Walk to shops,Moderate,Cloudy
+70,11/6/26,18:00,3500,Walk Home,Steady,Clear
+71,11/7/26,11:30,2100,Walk to gym,Rushed,Rainy
+72,11/7/26,11:50,4900,Gym Session,Exercise,Rainy
+73,11/7/26,12:55,2200,Walk Home from Gym,Steady,Cloudy
+74,11/8/26,11:00,600,Walk to shops,Steady,Clear
+75,11/8/26,14:00,2300,Walk to gym,Moderate,Clear
+76,11/8/26,14:25,4200,Gym Session,Exercise,Clear
+77,11/8/26,15:43,2200,Walk Home from Gym,Moderate,Clear
+78,11/9/26,8:43,1400,Commute to Uni,Steady,Cloudy
+79,11/9/26,12:00,3450,Walking,Moderate,Clear
+80,11/9/26,17:00,3200,Walk Home,Steady,Clear
+81,11/10/26,14:00,4500,Walking,Moderate,Clear
+82,11/10/26,18:00,3200,Walking,Steady,Clear
+83,11/11/26,12:00,5600,Walking,Moderate,Clear
+84,11/12/26,19:20,850,Walk to shops,Rushed,Rainy
+85,11/13/26,12:30,2300,Walk to gym,Moderate,Cloudy
+86,11/13/26,12:50,6200,Gym Session,Exercise,Rainy
+87,11/14/26,14:30,4200,Gym Session,Exercise,Rainy
+88,11/15/26,13:00,2200,Walk to gym,Steady,Clear
+89,11/15/26,13:22,5100,Gym Session,Exercise,Clear
+90,11/15/26,14:25,2100,Walk Home from Gym,Moderate,Clear
+91,11/16/26,8:42,1300,Commute to Uni,Rushed,Rainy
+92,11/16/26,18:00,3250,Walk Home,Moderate,Clear
+93,11/17/26,8:50,1300,Commute to Uni,Rushed,Cloudy
+94,11/18/26,12:25,2150,Walk to gym,Steady,Cloudy
+95,11/18/26,12:45,5600,Gym Session,Exercise,Cloudy
+96,11/19/26,11:30,6200,Gym Session,Exercise,Rainy
+97,11/20/26,10:50,1200,Commute to Uni,Rushed,Rainy
+98,11/20/26,16:00,3250,Walk Home,Steady,Clear
+99,11/21/26,15:00,2150,Walk to gym,Moderate,Clear
+100,11/21/26,15:28,6500,Gym Session,Exercise,Cloudy
+101,11/23/26,8:48,1350,Commute to Uni,Rushed,Cloudy
+102,11/23/26,14:23,3680,Walking,Steady,Clear
+103,11/23/26,18:00,3250,Walk Home,Moderate,Clear
+104,11/24/26,13:00,2200,Walk to gym,Moderate,Clear
+105,11/24/26,13:23,5650,Gym Session,Exercise,Clear
+,,,,,,

@@ -1,0 +1,34 @@
+DEAR DATA 100 - SCAMPER NOTES
+Topic: my daily steps and movement (105 observations, 5 Oct - 24 Nov 2026)
+One observation = one walk or gym session, with steps, time, context, pace and weather.
+
+SUBSTITUTE
+- Replaced a plain chart or grid with a clock-face spiral.
+- Replaced numbers on axes with shapes, colours and sizes.
+
+COMBINE
+- Combined time of day and date into one position: angle = time of day, distance from the centre = how recent the observation is.
+- Combined weather (colour), steps (size) and context (shape) in a single mark.
+
+ADAPT
+- Adapted the idea of a clock face and tree rings, where the oldest data sits in the middle and newer data grows outwards.
+- Adapted the Dear Data idea of a hand-made legend explaining how to read the picture.
+
+MODIFY
+- Made the size of each shape depend on step count, so big gym sessions stand out from short walks.
+- Gave each context its own shape: squares for gym sessions, triangles for uni commutes, circles for other walks.
+- Made rushed walks shake slightly, to show pace through movement.
+
+PUT TO ANOTHER USE
+- Used a clock, normally for telling time, to show the rhythm of my week (gym around midday, commutes in the morning).
+
+ELIMINATE
+- Removed numeric axes and gridlines; a short legend explains the encoding instead.
+- Left out extra detail until the viewer hovers over a shape.
+
+REVERSE / REARRANGE
+- Put the oldest data at the centre and the newest at the edge, instead of a left-to-right timeline.
+
+CODE (for the coding criterion)
+- I wrote a class called Movement. Each row of the CSV becomes one Movement object, stored in an ArrayList.
+- Each object stores its own data, works out its own position, size, colour and shape, and draws itself with display().
